@@ -22,4 +22,4 @@ function AddTwoNum (a,b)
  }
 }
 
-AddTwoNum(5,"5");
+AddTwoNum(5,5);
